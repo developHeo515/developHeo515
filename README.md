@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:a6c0fe,100:f68084&height=100&section=header&text=HI%20I%20AM%20HEOJUNSU%20&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:fa709a,100:fee140&height=100&section=header&text=HI%20I%20AM%20HEOJUNSU%20&animation=fadeIn&fontSize=40)
 
 
 ![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developHeo515&show_icons=true&bg_color=30,fbc2eb,a6c1ee&title_color=fff&text_color=fff&icon_color=ffdd00)
