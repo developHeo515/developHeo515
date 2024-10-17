@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20HEOJUNSU%20&animation=fadeIn&fontSize=40)
+
+![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaesc1&show_icons=true&theme=radical)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gjwnstn515)](https://solved.ac/gjwnstn515)
 
